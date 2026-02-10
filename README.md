@@ -6,10 +6,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=likurocplus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <img align="right" height="200" src="https://gifsec.com/wp-content/uploads/2022/10/cute-anime-girl-9.gif"  />
@@ -53,7 +49,9 @@
 </div>
 
 ###
-
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=quocluongg&show_icons=true&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=quocluongg&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=quocluongg&layout=compact&theme=gruvbox)
 <br clear="both">
 
 ###
